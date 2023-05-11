@@ -3,7 +3,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **MicroServices Alura Food**
 | :label: Tecnologias | Java, Spring Boot, MySQL
-| :rocket: URL         | thamyresmya.github.io/Space_alura/
+| :rocket: URL         | https://github.com/Thamyresmya/Microsservico-Alura_Food
 | :fire: Desafio     | 
 
 <br>
@@ -15,6 +15,7 @@
 # MicroServices Alura Food
 
 Implementação com java e Spring de microsserviços.
+
 
 <br>
 
@@ -34,21 +35,30 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Java
 - Spring Boot
 - MySQL
+- Postman
 - Git e Github
 
 <br>
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante o curso de Microsserviços implementado com Java e Spring
-- Criação de um microsserviço com Java e Spring, conectado a um banco de dados MySQL
-- Implementação de técnica de service discovery utilizando o Eureka
-- Centralização de requisições adicionando um API Gateway ao projeto
-- Comunicação síncrona entre dois microsserviços com Open Feign
-- Entenda os conceitos de circuit breaker e fallback
+Projeto desenvolvido durante o curso de Microsserviços implementado com Java e Spring.<br>
+Desenvolvimento de um microsserviço de pagamentos do zero, criando controlador, modelos, dto (data transfer object), repository, conexão da aplicação a um banco de dados MySQL, utilizando uma arquitetura, fazendo service discovery, centralizando requisições através de um API Gateway, fazendo balanceamento de carga e ainda implementação da comunicação síncrona usando ferramentas do Spring Cloud, além de projetar conceitos de circuit breaker e fallback para prevenir falhas ou inoperabilidade em algum dos microsserviços.
 
 <br>
 
+## 🔨 Funcionalidades do projeto
+
+Eureka:
+
+![](geral/gif/Gateway.gif)
+
+
+
+
+
+
+<br>
 
 ## 📁 Acesso ao projeto
 
