@@ -14,9 +14,6 @@
 
 # MicroServices Alura Food
 
-Implementação com java e Spring de microsserviços.
-
-
 <br>
 
 <p align="center">
@@ -52,9 +49,6 @@ Desenvolvimento de um microsserviço de pagamentos do zero, criando controlador,
 Eureka:
 
 ![](geral/gif/Gateway.gif)
-
-
-
 
 
 
