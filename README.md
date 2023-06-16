@@ -1,8 +1,8 @@
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **MicroServices Alura Food**
-| :label: Tecnologias | Java, Spring Boot, MySQL
+| :sparkles: Nome        | **Microserviços Alura Food**
+| :label: Tecnologias | Java, Spring Boot, MySQL, RabbitMQ
 | :rocket: URL         | https://github.com/Thamyresmya/Microsservico-Alura_Food
 | :fire: Desafio     | 
 
@@ -34,6 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - MySQL
 - Postman
 - Git e Github
+- RabbitMQ
 
 <br>
 
